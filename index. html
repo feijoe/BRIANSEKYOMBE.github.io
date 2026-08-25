@@ -1,0 +1,22 @@
+
+    </section>
+
+    <section id="contact" class="section contact">
+        <p class="small-title">CONTACT US</p>
+        <h2>Let's Build Your Website</h2>
+
+        <p>Ready to take your business online?</p>
+
+        <a href="https://wa.me/256759540323" class="btn">
+            Contact Us on WhatsApp
+        </a>
+    </section>
+
+    <footer>
+        <p>© 2026 Brian Web Solutions. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
